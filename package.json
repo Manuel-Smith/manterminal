@@ -1,0 +1,27 @@
+{
+  "name": "manterminal",
+  "version": "1.0.0",
+  "description": "\"Emulating the linux terminal in non-unix kernel spaces\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel-Smith/manterminal.git"
+  },
+  "keywords": [
+    "\"terminal\"",
+    "\"commandline\"",
+    "\"shell\""
+  ],
+  "author": "\"Manuel Smith\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manuel-Smith/manterminal/issues"
+  },
+  "homepage": "https://github.com/Manuel-Smith/manterminal#readme",
+  "dependencies": {
+    "node-watch": "^0.7.3"
+  }
+}
